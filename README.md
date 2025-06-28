@@ -1,2 +1,2 @@
 # Amazon
-This is my first project on git.
+Amazon Clone, frontend using HTML and CSS.
